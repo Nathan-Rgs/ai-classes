@@ -1,0 +1,2 @@
+# Ignorar qualquer diretório chamado "venv" em qualquer nível
+**/venv/
